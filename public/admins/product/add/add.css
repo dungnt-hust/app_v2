@@ -1,0 +1,14 @@
+.select2-selection__choice__display{
+    color: #0a0e14;
+}
+
+.image_detail_product, .image_main_product{
+    width:100%;
+    height: 130px;
+    object-fit: cover;
+}
+
+.container_detail_product{
+    margin-top: 20px;
+}
+
